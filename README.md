@@ -18,7 +18,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
 ## Orientador
 
-* Nome completo do professor
+* Marco Rodrigo da Costa
 
 # Documentação
 
