@@ -1,14 +1,26 @@
 # Introdução
 
+No universo da cerâmica artesanal, a esmaltação é uma processo fundamental por que é nessa etapa em que o artista expressa sua linguagem e sua visão de mundo. No entanto, é um processo complexo com muitas variáveis.
+
+A escolha da paleta de cores, a escolha da massa certa, e aplicação das mais variadas técnicas são componentes vitais para a produção de uma peça de cerâmica única. É um processo caro, demorado, e que envolve muitos riscos. 
+
+Portanto, a escolha do esmalte certo para um contexto específico é fundamental para garantir a qualidade e a fidelidade do resultado final.
+
 [Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
 
 ## Problema
+
+O mercado é carente de um lugar especializado onde os esmaltes são vendidos com a qualidade e com as informações fundamentais para a uma escolha segura que garanta um resultado final dentro do que o ceramista imaginou.
+
+A oportuniadade de negócio é um site especializado em venda de esmaltes cerâmicos.
+
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
-
 ## Objetivos
+
+Diminuir ao máximo os riscos e os custos de produção com a escolha do esmalte certo para o contexto certo. Além da disponibilidade just in time dos produtos com a menor frição possível.
 
 [Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
  
@@ -23,6 +35,8 @@ Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema
 Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
+
+Ceramistas hobistas e profissionais que precisam esmaltar sua produção que será queimada em fornos de alta temperatura
 
 [Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
 
