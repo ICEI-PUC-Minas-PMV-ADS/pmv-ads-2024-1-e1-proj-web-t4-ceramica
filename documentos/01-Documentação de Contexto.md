@@ -88,7 +88,14 @@ Este link pode ajudar a equipe a formular a justificativa: [Como montar a justif
 
 ## Público-Alvo
 
-Ceramistas hobistas e profissionais que precisam esmaltar sua produção que será queimada em fornos de alta temperatura
+
+Artesãos Tradicionais : São os artesões que possuem experiência na produção de cerâmica artesanal, muitas vezes utilizando técnicas e métodos tradicionais. Eles podem ter um conhecimento profundo das práticas artesanais, mas podem ter pouca experiência com tecnologia e acesso limitado aos mercados.
+
+Artesãos Inovadores : São artes que estão abertas à inovação e à experimentação, buscando novas técnicas e materiais para melhorar suas peças. Eles podem estar mais familiarizados com tecnologias modernas e podem buscar oportunidades de mercado mais amplas.
+
+Consumidores : São as pessoas que compram e apreciam a cerâmica artesanal. Eles podem ter diferentes níveis de conhecimento sobre o processo de produção e podem valorizar aspectos como danos, qualidade e sustentabilidade.
+
+Intermediários e Revendedores : São indivíduos ou empresas que atuam como intermediários entre as artes e os consumidores finais, ajudando a comercializar e vender as peças artesanais. Eles podem ter experiência em marketing e vendas, além de conhecimento sobre as preferências dos consumidores.
 
 [Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
 
