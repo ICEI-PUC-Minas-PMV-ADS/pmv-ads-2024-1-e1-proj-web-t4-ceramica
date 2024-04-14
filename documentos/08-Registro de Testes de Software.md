@@ -47,13 +47,5 @@
       </ul>
     </td>
   </tr>
-  <tr>
-    <th>5. Conclusão</th>
-  </tr>
-  <tr>
-    <td>Com base nos resultados dos testes funcionais realizados, podemos concluir que a aplicação "Cerâmica Arte & Tradição" atende aos requisitos funcionais especificados no plano de testes pré-definido. Os testes foram bem-sucedidos e não foram identificados problemas significativos durante a execução dos casos de teste.</td>
-  </tr>
-</table>
-
 
 [Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
