@@ -28,6 +28,26 @@ Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: 
 
 ## Justificativa
 
+Trabalhar com cerâmica artesanal pode ser motivado por diversas razões, tanto culturais quanto econômicas e ambientais. Aqui estão algumas motivações comuns:
+
+Tradição Cultural : A cerâmica artesanal é uma forma de arte e expressão cultural com raízes profundas em muitas sociedades ao redor do mundo. Ela carrega técnicas e estilos que são passados ​​de geração em geração, preservando a história e a história de um povo.
+
+Valorização do Artesanato : Em um mundo cada vez mais dominado pela produção em massa, valorizar o artesanato é uma forma de apoiar a produção local e sustentável. Isso contribui para a diversidade cultural e econômica, além de promover um consumo mais consciente.
+
+Sustentabilidade : A cerâmica artesanal muitas vezes utiliza técnicas e materiais mais sustentáveis ​​do que a cerâmica industrial. Isso inclui o uso de argilas locais, esmaltes naturais e métodos de queima mais eficientes em termos energéticos.
+
+Empoderamento Comunitário : Trabalhar com cerâmica artesanal pode fortalecer comunidades locais, proporcionando oportunidades de emprego e empreendedorismo para artesões e artistas locais.
+
+Preservação do Conhecimento : Ao apoiar a cerâmica artesanal, também se está apoiando a preservação de técnicas e conhecimentos tradicionais que, de outra forma, poderiam se perder ao longo do tempo.
+
+A equipe escolheu o problema da cerâmica artesanal porque sobrevive a importância desses aspectos e deseja criar uma solução que ajude a fortalecer e promover essa prática. Os objetivos incluem o desenvolvimento de ferramentas que facilitem a produção, a comercialização e a valorização da cerâmica artesanal, além de educar e conscientizar sobre sua importância cultural e ambiental.
+
+Referências
+
+https://medium.com/informal-economy-in-the-global-south/business-of-handmade-670f63efc740
+https://educacao.uol.com.br/disciplinas/cultura-brasileira/artesanato-ceramicas-rendas-e-outros-tipos-de-artesanato-brasileiro.htm#:~:text=O%20artesanato%20brasileiro%20%C3%A9%20um,e%20caracter%C3%ADsticas%20de%20cada%20regi%C3%A3o.
+https://imaginariobrasileiro.com.br/blogs/news/artesanato-brasileiro#:~:text=O%20artesanato%20%C3%A9%20uma%20forma,cultural%20e%20regional%20do%20pa%C3%ADs.
+
 [Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
 
 Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
