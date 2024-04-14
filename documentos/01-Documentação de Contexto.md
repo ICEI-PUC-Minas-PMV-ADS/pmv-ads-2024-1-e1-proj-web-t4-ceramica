@@ -14,6 +14,18 @@ O mercado é carente de um lugar especializado onde os esmaltes são vendidos co
 
 A oportuniadade de negócio é um site especializado em venda de esmaltes cerâmicos.
 
+Acesso a Mercados : Muitas artes enfrentam dificuldades para acessar mercados amplos e diversificados, o que limita suas oportunidades de venda e crescimento.
+
+Valorização e Competição : A competição com produtos industriais muitas vezes leva à desvalorização das peças artesanais, já que os consumidores podem preferir itens mais baratos e facilmente disponíveis.
+
+Sustentabilidade : A produção de cerâmica artesanal pode ser ambientalmente impactante, especialmente devido ao uso de métodos tradicionais de queima que consomem muita energia e podem gerar poluição.
+
+Preservação Cultural : A globalização e a industrialização podem levar ao desaparecimento de técnicas e tradições artesanais únicas, ameaçando uma diversidade cultural.
+
+Desenvolvimento de Habilidades : Garantir que as habilidades e técnicas tradicionais sejam transmitidas às gerações futuras é essencial para manter viva a prática da cerâmica artesanal.
+
+Portanto, o desafio é desenvolver soluções que ajudem as artes a acessar mercados de forma mais eficaz, valorizar suas peças, tornar a produção mais sustentável, preservar a cultura e garantir o desenvolvimento contínuo de habilidades.
+
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
 Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
