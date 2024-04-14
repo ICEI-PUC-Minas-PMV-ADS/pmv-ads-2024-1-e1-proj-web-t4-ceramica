@@ -34,6 +34,24 @@ Este link pode ajudar a equipe a entender mais sobre definição do problema: [O
 
 Diminuir ao máximo os riscos e os custos de produção com a escolha do esmalte certo para o contexto certo. Além da disponibilidade just in time dos produtos com a menor frição possível.
 
+Os objetivos do trabalho com cerâmica artesanal são abordar os principais problemas enfrentados pela indústria, com foco nas seguintes questões principais:
+
+Acesso a Mercados : Desenvolver estratégias e ferramentas para ajudar as artes a acessar mercados mais amplos e diversificados, incluindo a criação de plataformas online para a venda de suas peças.
+
+Valorização e Competição : Promover a valorização das peças artesanais, destacando suas desvantagens, qualidade e valor cultural, e educar os consumidores sobre a importância de apoiar o trabalho artesanal.
+
+Sustentabilidade : Pesquisar e implementar métodos de produção mais sustentáveis, como o uso de materiais ecológicos, técnicas de queima mais eficientes e o reaproveitamento de resíduos.
+
+Preservação Cultural : Documentar e preservar as técnicas e tradições artesanais, bem como incentivar a transmissão desses conhecimentos às gerações futuras.
+
+Desenvolvimento de Habilidades : Oferece treinamento e capacitação para artesões, garantindo que suas habilidades sejam aprimoradas e que novas técnicas sejam aprendidas para garantir a continuidade da prática artesanal.
+
+Inovação e Criatividade : Estimular a inovação e a criatividade na produção de cerâmica artesanal, incentivando novas formas de expressão e design.
+
+Consciência Ambiental : Sensibilizar as artes sobre a importância da sustentabilidade ambiental e fornecer orientações práticas sobre como reduzir o impacto ambiental de sua produção.
+
+Esses objetivos visam não apenas resolver os problemas enfrentados imediatamente pela indústria da cerâmica artesanal, mas também promover seu crescimento e sustentabilidade a longo prazo, preservando sua rica tradição cultural e contribuindo para o desenvolvimento das comunidades envolvidas.
+
 [Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
  
 Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
