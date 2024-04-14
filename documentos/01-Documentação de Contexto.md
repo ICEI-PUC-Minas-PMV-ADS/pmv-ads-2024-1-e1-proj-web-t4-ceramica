@@ -4,7 +4,6 @@ O ambiente da cerâmica artesanal é rico em tradição e história, muitas veze
 
 No entanto, apesar da rica tradição e do artesanato de alta qualidade produzido, as artes enfrentam desafios significativos. Eles muitas vezes têm dificuldade em acessar mercados amplos e diversificados, o que limita suas oportunidades de venda e crescimento. Além disso, a competição com produtos industriais muitas vezes leva à desvalorização das peças artesanais, dificultando a sustentabilidade econômica da prática.
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
 
 ## Problema
 
@@ -23,10 +22,6 @@ Preservação Cultural : A globalização e a industrialização podem levar ao 
 Desenvolvimento de Habilidades : Garantir que as habilidades e técnicas tradicionais sejam transmitidas às gerações futuras é essencial para manter viva a prática da cerâmica artesanal.
 
 Portanto, o desafio é desenvolver soluções que ajudem as artes a acessar mercados de forma mais eficaz, valorizar suas peças, tornar a produção mais sustentável, preservar a cultura e garantir o desenvolvimento contínuo de habilidades.
-
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Objetivos
 
@@ -49,10 +44,6 @@ Inovação e Criatividade : Estimular a inovação e a criatividade na produçã
 Consciência Ambiental : Sensibilizar as artes sobre a importância da sustentabilidade ambiental e fornecer orientações práticas sobre como reduzir o impacto ambiental de sua produção.
 
 Esses objetivos visam não apenas resolver os problemas enfrentados imediatamente pela indústria da cerâmica artesanal, mas também promover seu crescimento e sustentabilidade a longo prazo, preservando sua rica tradição cultural e contribuindo para o desenvolvimento das comunidades envolvidas.
-
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
 
 ## Justificativa
 
@@ -78,12 +69,6 @@ https://educacao.uol.com.br/disciplinas/cultura-brasileira/artesanato-ceramicas-
 
 https://imaginariobrasileiro.com.br/blogs/news/artesanato-brasileiro#:~:text=O%20artesanato%20%C3%A9%20uma%20forma,cultural%20e%20regional%20do%20pa%C3%ADs.
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
-
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
-
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
 ## Público-Alvo
 
 
@@ -94,13 +79,4 @@ Artesãos Inovadores : São artes que estão abertas à inovação e à experime
 Consumidores : São as pessoas que compram e apreciam a cerâmica artesanal. Eles podem ter diferentes níveis de conhecimento sobre o processo de produção e podem valorizar aspectos como danos, qualidade e sustentabilidade.
 
 Intermediários e Revendedores : São indivíduos ou empresas que atuam como intermediários entre as artes e os consumidores finais, ajudando a comercializar e vender as peças artesanais. Eles podem ter experiência em marketing e vendas, além de conhecimento sobre as preferências dos consumidores.
-
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
 
