@@ -12,32 +12,6 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Fluxograma de Login/Cadastro</title>
-    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-</head>
-<body>
-    <div class="mermaid">
-    graph TD
-        A[Tela Inicial] --> B(Selecionar Login ou Cadastro)
-        B --> C(Login)
-        B --> D(Cadastro)
-        C --> E(Preencher E-mail e Senha)
-        E --> F(Verificar Credenciais)
-        F --> G(Entrar na Conta)
-        D --> H(Preencher Formulário de Cadastro)
-        H --> I(Verificar Dados)
-        I --> J(Criar Conta)
-        J --> G(Entrar na Conta)
-    </div>
-    <script>
-    mermaid.initialize({ startOnLoad: true });
-    </script>
-</body>
-</html>
-
 
 
 ## Protótipo
