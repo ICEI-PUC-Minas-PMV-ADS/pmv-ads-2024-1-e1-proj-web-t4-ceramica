@@ -1,4 +1,4 @@
-# Casa do Esmalte
+# Cerâmica Arte & Tradição
 
 Análise e Desenvolvimento de Sistemas - PUC Minas
 
