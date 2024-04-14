@@ -45,7 +45,9 @@ A equipe escolheu o problema da cerâmica artesanal porque sobrevive a importân
 Referências
 
 https://medium.com/informal-economy-in-the-global-south/business-of-handmade-670f63efc740
+
 https://educacao.uol.com.br/disciplinas/cultura-brasileira/artesanato-ceramicas-rendas-e-outros-tipos-de-artesanato-brasileiro.htm#:~:text=O%20artesanato%20brasileiro%20%C3%A9%20um,e%20caracter%C3%ADsticas%20de%20cada%20regi%C3%A3o.
+
 https://imaginariobrasileiro.com.br/blogs/news/artesanato-brasileiro#:~:text=O%20artesanato%20%C3%A9%20uma%20forma,cultural%20e%20regional%20do%20pa%C3%ADs.
 
 [Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
