@@ -6,7 +6,7 @@ Desenvolvimento de aplicação web front-end
 
 1º semestre/2024
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto de desenvolvimento para a indústria de cerâmica artesanal busca melhorar a eficiência e a sustentabilidade desse setor por meio de uma aplicação móvel. A plataforma permite aos artesãos acessar informações sobre técnicas tradicionais e inovações na produção, além de fornecer recursos para gerenciar melhor seus negócios, como controle de estoque e vendas. Também visa conectar os artesãos a uma comunidade online, promovendo a troca de conhecimentos e a divulgação de seus produtos. O projeto visa, assim, preservar a tradição da cerâmica artesanal, tornando-a mais viável economicamente e ambientalmente sustentável.
 
 ## Integrantes
 
