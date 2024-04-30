@@ -69,7 +69,11 @@
     <td>Quero me conectar com outros ceramistas que tenham os mesmos desafios de esmaltação.</td>
     <td>Para troca de experiências.</td>
   </tr>
- 
+  <tr>
+    <td>Ceramista</td>
+    <td>Quero poder comprar o esmalte certo.</td>
+    <td>Para a minha combinação de materiais (massa, tipo de queima).</td>
+  </tr> 
 </table>
 
 ### Requisitos Funcionais
