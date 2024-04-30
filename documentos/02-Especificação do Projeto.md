@@ -87,51 +87,49 @@
   </tr>
   <tr>
     <td rowspan="4">Artesãos</td>
-    <td>Os artesãos devem poder criar e gerenciar seus perfis, incluindo informações sobre suas técnicas, produtos e história.</td>
+    <td>A aplicação deve permitir o usuário filtrar os esmaltes por cores.</td>
     <td>Alta</td>
   </tr>
   <tr>
-    <td>Os artesãos devem poder adicionar novos produtos ao catálogo, incluindo fotos, descrições e preços.</td>
-    <td>Média</td>
+    <td>A aplicação deve permitir o usuário filtrar os esmaltes por tipo de massas cerâmicas.</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>A aplicação deve permitir o usuário consultar as especificações dos esmaltes.
+  </td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td>Os artesãos devem poder interagir com outros artesãos e consumidores por meio de um fórum ou rede social integrada.</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+  <tr>
+    <td>A aplicação deve permitir o usuário cadastrar sua conta.</td>
+    <td>Média</td>
+  </tr>
+  <tr>
+    <td>A aplicação deve permitir o usuário fazer a compra do esmalte.
+  </td>
     <td>Baixa</td>
   </tr>
   <tr>
-    <td>Os artesãos devem receber notificações sobre novos pedidos, mensagens de consumidores e atualizações da comunidade.</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Consumidores</td>
-    <td>Os consumidores devem poder navegar pelo catálogo de produtos, filtrando por categoria, preço e artesão.</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Os consumidores devem poder visualizar detalhes dos produtos, incluindo fotos, descrições e informações sobre o artesão.</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Os consumidores devem poder adicionar produtos ao carrinho e finalizar a compra de forma segura.</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td>Os consumidores devem poder avaliar e deixar comentários sobre os produtos e a experiência de compra.</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td rowspan="3">Intermediários</td>
-    <td>Os intermediários devem poder acessar informações detalhadas sobre os produtos e os artesãos para tomar decisões de compra.</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Os intermediários devem poder gerenciar seus pedidos e estoques de forma eficiente, incluindo a visualização de relatórios de vendas e tendências de mercado.</td>
-    <td>Média</td>
-  </tr>
-  <tr>
-    <td>Os intermediários devem poder entrar em contato diretamente com os artesãos para discutir possíveis colaborações ou encomendas personalizadas.</td>
+    <td>A aplicação deve permitir o usuário saber qual é o preço do esmalte.
+  </td>
     <td>Baixa</td>
   </tr>
+  <tr>
+    <td>A aplicação deve permitir o usuário saber qual é o preço do frete para sua localização.
+  </td>
+    <td>Baixa</td>
+  </tr>
+  <tr>
+    <td>A aplicação deve permitir o usuário pagar com Pix, Cartões de crédito, débito e boleto
+.
+  </td>
+    <td>Baixa</td>
+  </tr>
+
 </table>
 
 
