@@ -6,7 +6,7 @@ Desenvolvimento de aplicação web front-end
 
 1º semestre/2024
 
-O projeto de desenvolvimento para a indústria de cerâmica artesanal busca melhorar a eficiência e a sustentabilidade desse setor por meio de uma aplicação móvel. A plataforma permite aos artesãos acessar informações sobre técnicas tradicionais e inovações na produção, além de fornecer recursos para gerenciar melhor seus negócios, como controle de estoque e vendas. Também visa conectar os artesãos a uma comunidade online, promovendo a troca de conhecimentos e a divulgação de seus produtos. O projeto visa, assim, preservar a tradição da cerâmica artesanal, tornando-a mais viável economicamente e ambientalmente sustentável.
+O processo de esmaltação na cerâmica artesanal é um processo custoso e com resultado incerto. Para aumentar a taxa de acerto, o objetivo desse produto na fase 1 é auxiliar o ceramista profissional e hobbista com informações técnicas e educacionais e, na fase 2, adicionar uma camada de e-commerce em que o ceramista poderá comprar o que precisa como uma consultoria técnica especializada para o seu caso.
 
 ## Integrantes
 
