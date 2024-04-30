@@ -45,45 +45,31 @@
     <th>Para...</th>
   </tr>
   <tr>
-    <td>Ceramista profissional</td>
-    <td>Poder criar um perfil na plataforma para mostrar minha história, técnicas de produção e produtos.</td>
-    <td>Para que os consumidores possam conhecer mais sobre mim e minha arte.</td>
+    <td>Ceramista</td>
+    <td>preciso ter a certeza de que escolhi a massa certa.</td>
+    <td>para o esmalte certo.</td>
   </tr>
   <tr>
-    <td>Consumidor</td>
-    <td>Poder navegar pelo catálogo de produtos de cerâmica artesanal, filtrando por tipo de produto, preço e artesão.</td>
-    <td>Para encontrar peças que atendam às minhas preferências e orçamento.</td>
+    <td>Ceramista</td>
+    <td>preciso ter a certeza de que escolhi o esmalte certo.</td>
+    <td>para a massa certa.</td>
   </tr>
   <tr>
-    <td>Artesão Inovador</td>
-    <td>Poder adicionar novos produtos ao catálogo, incluindo fotos, descrições e preços.</td>
-    <td>Para mostrar minha criatividade e expandir meu alcance no mercado.</td>
+    <td>Ceramista</td>
+    <td>preciso ter a certeza de que escolhi o tipo de esmalte com a combinação de minerais correta.</td>
+    <td>para atingir a cor certa.</td>
   </tr>
   <tr>
-    <td>Consumidor</td>
-    <td>Poder adicionar produtos ao carrinho de compras e finalizar a compra de forma segura.</td>
-    <td>Para adquirir as peças de cerâmica que escolhi com facilidade e segurança.</td>
+    <td>Ceramista</td>
+    <td>preciso ter a certeza de que escolhi o conjunto de esmalte a massa.</td>
+    <td>para atingir a queima certa.</td>
   </tr>
   <tr>
-    <td>Intermediário</td>
-    <td>Poder acessar informações detalhadas sobre os produtos e os artesãos.</td>
-    <td>Para tomar decisões de compra informadas e selecionar peças de alta qualidade para minha loja.</td>
+    <td>Ceramista</td>
+    <td>Quero me conectar com outros ceramistas que tenham os mesmos desafios de esmaltação.</td>
+    <td>Para troca de experiências.</td>
   </tr>
-  <tr>
-    <td>Consumidor</td>
-    <td>Poder avaliar e deixar comentários sobre os produtos e a experiência de compra.</td>
-    <td>Para ajudar outros consumidores a fazerem escolhas e proporcionar feedback aos artesãos.</td>
-  </tr>
-  <tr>
-    <td>Artesão</td>
-    <td>Receber notificações sobre novos pedidos, mensagens de consumidores e atualizações da comunidade.</td>
-    <td>Para ficar atualizado e responder rapidamente às demandas do mercado.</td>
-  </tr>
-  <tr>
-    <td>Consumidor</td>
-    <td>Poder seguir os artesãos que mais gosto e receber atualizações sobre seus novos produtos e atividades.</td>
-    <td>Para me manter conectado com minha comunidade artesanal favorita.</td>
-  </tr>
+ 
 </table>
 
 ### Requisitos Funcionais
