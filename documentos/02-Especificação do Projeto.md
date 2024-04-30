@@ -22,7 +22,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Artistas hobbistas </th>
+<th colspan="2">Perfil Ceramistas hobbistas </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
@@ -45,7 +45,7 @@
     <th>Para...</th>
   </tr>
   <tr>
-    <td>Artesão Tradicional</td>
+    <td>Ceramista profissional</td>
     <td>Poder criar um perfil na plataforma para mostrar minha história, técnicas de produção e produtos.</td>
     <td>Para que os consumidores possam conhecer mais sobre mim e minha arte.</td>
   </tr>
