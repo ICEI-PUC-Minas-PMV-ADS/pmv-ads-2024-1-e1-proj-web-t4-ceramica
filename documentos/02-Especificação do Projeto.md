@@ -5,15 +5,16 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Artesãos Tradicionais </th>
+<th colspan="2">Perfil Ceramistas profissionais </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Artistas que seguem técnicas tradicionais de produção de cerâmica.</td>
+<td width="600px">Artistas que trabalham profissionalmente com cerâmica.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Acesso a informações sobre técnicas tradicionais e inovações na produção, recursos para gerenciar seus negócios (como controle de estoque e vendas) e conexão com uma comunidade online para compartilhar conhecimentos e promover seus produtos</td>
+<td>Aumentar a gama de uso de cores e texturas sem pagar o altíssimo preço das tentativas e erros, o que lhe dará mais possibilidades de alcançar uma linguagem única ao mesmo tempo que aumenta significativamente a reantabilidade por peça produzida</td>
+<td>Se conectar com outros ceramistas para troca de experiências.</td>
 </tr>
 </tbody>
 </table>
@@ -21,47 +22,15 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Artesãos Inovadores </th>
+<th colspan="2">Artistas hobbistas </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Artistas que buscam constantemente novas técnicas, materiais e designs.</td>
+<td width="600px">Ceramistas que recém entraram no mundo da cerâmica e começam a entender que o seu valor está na esmaltação e não na modelagem da massa.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Acesso a recursos educacionais sobre tecnologias emergentes, ferramentas de marketing e vendas para expandir seu alcance e uma plataforma para conectar-se com consumidores e outros artesãos</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil Consumidores </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">Pessoas que valorizam produtos únicos, feitos à mão e com uma história por trás de sua criação.</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>Acesso a uma variedade de produtos de alta qualidade, informações detalhadas sobre os produtos e os artesãos, uma forma fácil de descobrir e comprar produtos autênticos e uma maneira de se conectar com os artesãos e a comunidade artesana</td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
-<tr align=center>
-<th colspan="2">Perfil Intermediários e Revendedores </th>
-</tr>
-<tr>
-<td width="150px"><b>Descrição</b></td>
-<td width="600px">Empresas ou indivíduos que conectam os produtos dos artesãos aos consumidores finais.</td>
-</tr>
-<tr>
-<td><b>Necessidades</b></td>
-<td>Acesso a informações detalhadas sobre os produtos e os artesãos, ferramentas para gerenciar pedidos e estoques de forma eficiente e uma maneira de diferenciar seus negócios e se destacar no mercado.</td>
+<td>Acesso às informações técnicas e a outros ceramistas para encurtar sua curva de aprendizado na esmaltação.</td>
 </tr>
 </tbody>
 </table>
