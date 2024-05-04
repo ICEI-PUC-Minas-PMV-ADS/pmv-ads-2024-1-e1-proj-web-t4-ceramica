@@ -5,7 +5,8 @@ Esta seção descreve a organização da equipe para a execução das tarefas do
 
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o Kanban.
+
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o Kanban pela natureza do projeto apresentou mais fit com a maneira do time trabalhar.
 
 ### Divisão de Papéis
 
@@ -22,6 +23,10 @@ A equipe utiliza o Kanban como base para definição do processo de desenvolvime
 
 ### Processo
 
+![trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/f0fd7112-3d73-4969-9fae-04856d943c69)
+
+Usamos o Trello como ferramenta de gerenciamento de projetos.
+
 [Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
 - To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
@@ -36,6 +41,9 @@ A equipe utiliza o Kanban como base para definição do processo de desenvolvime
 
 
 ### Etiquetas
+
+Por hora usamos apenas a etiqueta "Documentação" por que é a fase atual do projeto.
+
 <p>As tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias:</p>
 
 <ul>
@@ -63,7 +71,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
 | Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Gerenciamento do Projeto            | Trello                             | [http://....](https://trello.com/b/WZE6D3kh/ads-ceramica)                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
