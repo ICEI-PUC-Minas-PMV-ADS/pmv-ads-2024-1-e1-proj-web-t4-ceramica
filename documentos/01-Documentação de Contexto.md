@@ -6,21 +6,23 @@ A etapa da esmaltação é vital por que é nela que o ceramista expressa sua li
 
 ## Problema
 
-A escolha das cores e da textura envolvem a combinação de muitas variáveis, como o tipo de esmalte, o tipo de massa, o tipo de queima, a temperatura da queima e a técnica de aplicação, o que torna o processo caro e com resultado incerto. 
+O processo produtivo da cerâmica é bastante custoso e com resultado incerto. 
 
-Para diminuir os custos de produção e aumentar a assertividade do resultado do final.
+São muitas variáveis que combinadas na medida exata influenciam a qualidade do resultado final das cores e texturas. Variáveis como o tipo de esmalte, o tipo de massa, o tipo de queima, a temperatura da queima e a técnica de aplicação dentre outras. 
+
+Portanto, o problema a ser resolvido é aumentar a chance do resultado final sair como esperado o que implica em diminuir os custos de produção que no final do dia se traduzem em maior margem para o ceramista.
 
 ## Objetivos
 
-Ajudar o ceramista hobbista e profissional a atingir o resultado desejado com o mínimo uso de recursos através de um conteúdo técnico e uma venda consultiva.
+Nesse sentido, o objetivo é ajudar o ceramista hobbista e profissional a atingirem seus resultados desejados com o mínimo uso de recursos através de um conteúdo técnico (fase 1) e uma venda consultiva (fase 2).
 
 ## Justificativa
 
-Não existe hoje na internet brasileira (PT/BR) um lugar que concentre todo esse conteúdo técnico e também tenha uma venda consultiva que aumente do ceramista em alcançar o resultado esperado.
+O mercado brasileiro é carente de serviços que auxiliem o processo de esmaltação. O que há disponível é um excesso de produtos voltados para a modelagem apenas.
 
 ## Público-Alvo
 
-Ceramistas profissionais: aqueles que tem na ceramica a sua profissão mas são limitados a poucas cores e tipos de esmaltação por que o processo de tentativa e erro é muito caro.
+Ceramistas profissionais: aqueles que tem na ceramica a sua profissão mas, por receio e falta de conhecimento, são limitados a poucas cores e tipos de esmaltação uma vez que "arriscar" é muito caro.
 
 Ceramistas hobbistas: diminuir a frustração e aumentar o horizonte desses tipos de ceramistas, que logo conseguem boas habilidades na modelagem da massa mas levam muito tempo para atingir um resultado minimamente satisfatório na esmaltação.
 
