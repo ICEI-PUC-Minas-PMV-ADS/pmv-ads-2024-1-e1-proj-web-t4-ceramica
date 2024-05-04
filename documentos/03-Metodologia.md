@@ -25,7 +25,7 @@ A equipe utiliza o Kanban como base para definição do processo de desenvolvime
 
 ![trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/10eca9a2-c44b-4827-9582-8e84217d3ca3)
 
-Usamos o Trello como ferramenta de gerenciamento de projetos.
+Usamos o Trello como ferramenta de gerenciamento de projetos por que é a ferramenta mais simples e com menor curva de aprendizado do mercado e, por isso, bastante adequado ao nosso caso.
 
 [Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
 - Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
