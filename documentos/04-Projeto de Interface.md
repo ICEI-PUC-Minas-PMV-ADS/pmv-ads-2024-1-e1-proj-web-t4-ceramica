@@ -15,13 +15,20 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ## Protótipo
 
-Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas de validar uma ideia, conceito ou funcionalidade. Isso permite a interação, avaliação, modificação e aprovação das principais características de uma interface antes de entrar na fase de desenvolvimento. Leia o artigo [Protótipos: baixa, média ou alta fidelidade?](https://medium.com/ladies-that-ux-br/prot%C3%B3tipos-baixa-m%C3%A9dia-ou-alta-fidelidade-71d897559135).
+Home page
+![Home Page ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/a524d8d1-2b74-425c-a1db-bb93ac10a274)
 
-### Protótipo de baixa fidelidade
+Lista de produtos/artigos
 
-Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
+![Glaze list](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/d02a4c71-3919-44e1-a1c7-771e58e59887)
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+Página do produto/artigo
+
+![Glaze page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/d07fbc39-4de4-49ac-b7a1-3ba6c834bdbf)
+
+Página da comunidade
+
+![Community page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/b7f3bb08-0389-461f-a0ec-b707751f93b1)
 
 [Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
  
