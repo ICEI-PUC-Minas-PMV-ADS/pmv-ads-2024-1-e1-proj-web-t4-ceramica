@@ -30,14 +30,10 @@ Página da comunidade
 
 ![Community page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/b7f3bb08-0389-461f-a0ec-b707751f93b1)
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
+
  
 > **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+> - Protótipos: https://www.figma.com/file/ldSPsGiSdki5fV0nGUYVLE/Free-Blog-Template--%7C-Modern-%26-Creative-design-(Community)?type=design&node-id=2101-21786&mode=design&t=vKqhmuzMypMkSKdb-0
 
 
 
