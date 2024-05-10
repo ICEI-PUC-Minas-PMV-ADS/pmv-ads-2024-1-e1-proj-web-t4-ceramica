@@ -16,19 +16,20 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 ## Protótipo
 
 Home page
-![Home Page ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/a524d8d1-2b74-425c-a1db-bb93ac10a274)
+
+![Home Page  (1)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/76540e64-1260-488f-aa82-f453d7720d80)
 
 Lista de produtos/artigos
 
-![Glaze list](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/d02a4c71-3919-44e1-a1c7-771e58e59887)
+![Lista de produtos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/8fdd80d6-8646-404e-a1eb-c66a46c2a5f9)
 
 Página do produto/artigo
 
-![Glaze page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/d07fbc39-4de4-49ac-b7a1-3ba6c834bdbf)
+![Página do produto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/4e65012e-f9c6-4b1d-bf74-308608af65a2)
 
 Página da comunidade
 
-![Community page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/b7f3bb08-0389-461f-a0ec-b707751f93b1)
+![Página da comunidade](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/52ade86b-37e6-4875-a4cc-290515825b9d)
 
 
  
