@@ -6,32 +6,70 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 
 ### Título da funcionalidade
 
-[Adicione imagem da funcionalidade/tela]
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/b3d2c66c-0d1e-4f84-9cfe-f257c8ac8d99)
 
 
 #### Requisito atendido
 
-[RF-X: adicione a descrição do requisito atendido]
-
+Criação de comunidade onde os usuários podem trocar informações sobre esmaltes cerâmicos.
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+[Uploading com<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suporte - Cerâmica Arte & Tradição</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Comunidade</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    
 
-#### Estrutura de Dados
+        <section id="contato">
+            <h2>Participe da comunidade</h2>
+            <form>
+                <div class="arena-chat" data-publisher="jlkjklkl" data-chatroom="gRREhEL" data-position="in-page"></div><script async src="https://go.arena.im/public/js/arenachatlib.js?p=jlkjklkl&e=gRREhEL"></script>
+            </form>
+        </section>
+    </main>
 
-[Caso exista estrutura de dados, adicione aqui]
+    <footer>
+        <p>&copy; 2024 Cerâmica Arte & Tradição. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+unidade.html…]()
+
 
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+1) Faça seu login
+2) Mande mensagens no grupo principal
+3) Mande mensagens no grupo específico de esmaltes
+4) Mande mensagens no grupo específico de massas
+5) Participe das enquetes
+6) Mande sua pergunta para os moderadores
+7) Mande mensagens privadas para outros membros da comunidae
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Andre Dexheimer
 
 
 
