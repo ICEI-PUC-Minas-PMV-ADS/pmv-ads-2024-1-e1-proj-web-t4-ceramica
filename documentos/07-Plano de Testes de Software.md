@@ -10,22 +10,38 @@ PARTE I - navegação & conteúdo
   <tr>
     <th>Cenário</th>
     <th>Resultado Esperado</th>
+    <th>Passo a passo</th>
+    <th>Responsável</th>
   </tr>
   <tr>
     <td>Navegação para a Página Inicial:</td>
     <td>Verifica se a navegação para a página inicial retorna o conteúdo correto.</td>
+    <td>* Abrir o navegador e navegar para a URL da página inicial (http://seu-site.com).
+*  Verificar o conteúdo da página: Assegurar que a página contém o texto "Bem-vindo ao site de Esmaltes Cerâmicos".</td>
+    <td>Dani.</td>
   </tr>
   <tr>
     <td>Navegação para a Lista de Produtos:</td>
-    <td>Verifica se a navegação para a lista de esmaltes retorna o conteúdo correto, incluindo um esmalte específico..</td>
+    <td>Verifica se a navegação para a lista de esmaltes retorna o conteúdo correto, incluindo um esmalte específico.</td>
+    <td>* Abrir o navegador e navegar para a URL da lista de esmaltes (http://seu-site.com/esmaltes).
+<br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
+<br> * Verificar um esmalte específico: Assegurar que a página contém o texto "Esmalte Azul".</td>
+    <td>Marcelo</td>
   </tr>
   <tr>
     <td>Navegação para a Página da Comunidade:</td>
     <td>Verifica se a navegação para a página da comunidade retorna o conteúdo correto.</td>
+    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+<br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
+<br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Comunidade de Esmaltes Cerâmicos".</td>
+    <td>Marcelo</td>
   </tr>
   <tr>
     <td>Menu de Navegação:</td>
     <td>Verifica se o menu de navegação contém os links corretos.</td>
+    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+<br> * Verificar os links do menu: Assegurar que os links para "/home", "/esmaltes", e "/comunidade" estão presentes e corretos..
+    <td>Marcelo</td>
   </tr>
  </table>
 
@@ -35,26 +51,59 @@ PARTE II - comunidade
   <tr>
     <th>Cenário</th>
     <th>Resultado Esperado</th>
+    <th>Passo a passo</th>
+    <th>Responsável</th>
   </tr>
   <tr>
     <td>Registro de Usuário:</td>
-    <td>Verifica se o registro de um novo usuário aumenta a contagem de usuários em um.</td>
+    <td>Verifica se a autenticação com o Google está funcionando.</td>
+    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Login de Usuário:</td>
-    <td>Verifica se o login de um usuário retorna verdadeiro para credenciais válidas.</td>
+    <td>Verifica se o login de um usuário no Google está funcionando.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.</td>
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Postagem de Comentário:</td>
-    <td>Verifica se a postagem de um comentário aumenta a contagem de comentários em um.</td>
+    <td>Verifica se a postagem de um comentário/mensagem está funcionando apropriadamente.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <br> * Enviar/postar mensagem.</td>
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Listagem de Comentários:</td>
     <td>Verifica se a listagem de comentários retorna todos os comentários postados.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <br> * Enviar/postar mensagem.
+    <br> * Verificar as mensagens listadas por ordem cronológicas de cima para baixo.</td>
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Exclusão de Comentário:</td>
-    <td>Verifica se a exclusão de um comentário diminui a contagem de comentários em um.</td>
+    <td>Verifica se a exclusão de um comentário é efetiva.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <br> * Selecionar a mensagem.
+    <br> * Deletar a mensagem.
+    <br> * Verificar se a mensagem foi deletada.</td>
+    <td>Andre</td>
   </tr>
  </table>
 
@@ -88,55 +137,106 @@ PARTE II - comunidade
 
 #### a. Testes de Navegação
 
+PARTE I - navegação & conteúdo	
+
 <table>
   <tr>
     <th>Cenário</th>
     <th>Resultado Esperado</th>
+    <th>Passo a passo</th>
+    <th>Responsável</th>
   </tr>
   <tr>
     <td>Navegação para a Página Inicial:</td>
     <td>Verifica se a navegação para a página inicial retorna o conteúdo correto.</td>
+    <td>* Abrir o navegador e navegar para a URL da página inicial (http://seu-site.com).
+*  Verificar o conteúdo da página: Assegurar que a página contém o texto "Bem-vindo ao site de Esmaltes Cerâmicos".</td>
+    <td>Dani.</td>
   </tr>
   <tr>
     <td>Navegação para a Lista de Produtos:</td>
-    <td>Verifica se a navegação para a lista de esmaltes retorna o conteúdo correto, incluindo um esmalte específico..</td>
+    <td>Verifica se a navegação para a lista de esmaltes retorna o conteúdo correto, incluindo um esmalte específico.</td>
+    <td>* Abrir o navegador e navegar para a URL da lista de esmaltes (http://seu-site.com/esmaltes).
+<br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
+<br> * Verificar um esmalte específico: Assegurar que a página contém o texto "Esmalte Azul".</td>
+    <td>Marcelo</td>
   </tr>
   <tr>
     <td>Navegação para a Página da Comunidade:</td>
     <td>Verifica se a navegação para a página da comunidade retorna o conteúdo correto.</td>
+    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+<br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
+<br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Comunidade de Esmaltes Cerâmicos".</td>
+    <td>Marcelo</td>
   </tr>
   <tr>
     <td>Menu de Navegação:</td>
     <td>Verifica se o menu de navegação contém os links corretos.</td>
+    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+<br> * Verificar os links do menu: Assegurar que os links para "/home", "/esmaltes", e "/comunidade" estão presentes e corretos..
+    <td>Marcelo</td>
   </tr>
  </table>
 
 #### b. Testes de Comunidade
 
- <table>
+<table>
   <tr>
     <th>Cenário</th>
     <th>Resultado Esperado</th>
+    <th>Passo a passo</th>
+    <th>Responsável</th>
   </tr>
   <tr>
     <td>Registro de Usuário:</td>
-    <td>Verifica se o registro de um novo usuário aumenta a contagem de usuários em um.</td>
+    <td>Verifica se a autenticação com o Google está funcionando.</td>
+    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Login de Usuário:</td>
-    <td>Verifica se o login de um usuário retorna verdadeiro para credenciais válidas.</td>
+    <td>Verifica se o login de um usuário no Google está funcionando.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.</td>
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Postagem de Comentário:</td>
-    <td>Verifica se a postagem de um comentário aumenta a contagem de comentários em um.</td>
+    <td>Verifica se a postagem de um comentário/mensagem está funcionando apropriadamente.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <br> * Enviar/postar mensagem.</td>
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Listagem de Comentários:</td>
     <td>Verifica se a listagem de comentários retorna todos os comentários postados.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <br> * Enviar/postar mensagem.
+    <br> * Verificar as mensagens listadas por ordem cronológicas de cima para baixo.</td>
+    <td>Andre</td>
   </tr>
   <tr>
     <td>Exclusão de Comentário:</td>
-    <td>Verifica se a exclusão de um comentário diminui a contagem de comentários em um.</td>
+    <td>Verifica se a exclusão de um comentário é efetiva.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <br> * Clicar em Gooogle.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado no Google.
+    <br> * Selecionar a mensagem.
+    <br> * Deletar a mensagem.
+    <br> * Verificar se a mensagem foi deletada.</td>
+    <td>Andre</td>
   </tr>
  </table>
 
