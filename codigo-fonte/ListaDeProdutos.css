@@ -12,20 +12,19 @@ body {
     padding: 0px;
 }
 
-header {
-    margin: 0 auto;
-    height: auto;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    flex-direction: column;
-    width: auto;
-    font-size: small;
-}
 
-.logo-principal {
-    width: 270px;
-}
+.reservados{
+    background-color: #FFF0F0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #AD2D2D;
+    font-size: 15px;
+    text-align:center;
+    padding: 0px 0px 0px 0px;
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
 
 .produtos {
     width: 950px;
@@ -123,7 +122,7 @@ footer div div {
     gap: 20px;
 }
 
-footer div div h2 {
+footer div div  {
     font-size: 15px;
 }
 

@@ -58,7 +58,7 @@ body {
   height: 30px;
   border: none;
   padding: 4px;
-  width: 400px;
+  width: 350px;
   color: #fff;
   font-size: 1rem;
   font-weight: bold;
@@ -97,17 +97,16 @@ body {
   text-align:center;
  
 }
-p {
-  padding: 100px;
-  max-width: 1000px;
-}
+
 
 
 @media (max-width: 1000px) {
+ 
   #cards {
     align-items: center;
   }
   .card {
+    align-items: center;
     width: 400px;
   }
   .centered-text {
@@ -133,11 +132,25 @@ p {
 }
 
 @media (max-width: 600px) {
+  
   #cards {
     grid-template-columns: 1fr;
     align-items: center;
   }
   .card{
-    width: 250px;
+    width: 300px;
   }
+  
+.card button {
+  background-color: #2192ff;
+  height: 30px;
+  border: none;
+  padding: 4px;
+  width: 250px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
 }
