@@ -37,8 +37,7 @@ O processo de esmaltação na cerâmica artesanal é um processo custoso e com r
 </ol>
 
 # Hospedagem
-
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html
 
 # Código-Fonte
 
