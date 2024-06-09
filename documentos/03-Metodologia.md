@@ -23,7 +23,8 @@ A equipe utiliza o Kanban como base para definição do processo de desenvolvime
 
 ### Processo
 
-![trello](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/10eca9a2-c44b-4827-9582-8e84217d3ca3)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/f82771c4-0c8c-4190-92aa-2ca11a2b51a6)
+
 
 Usamos o Trello como ferramenta de gerenciamento de projetos por que é a ferramenta mais simples e com menor curva de aprendizado do mercado e, por isso, bastante adequado ao nosso caso.
 
