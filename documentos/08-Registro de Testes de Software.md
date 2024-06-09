@@ -1,4 +1,10 @@
 # Registro de Testes de Software
 
 
-[Inserir aqui as evidências de teste que podem ser apresentadas por print de telas ou por .gif de execução de teste]
+## Testes unitários de navegação
+
+https://www.loom.com/share/93b2fafbf2d440f482f262d029cceaf1
+
+## Testes envio de mensagens na comunidade
+
+https://www.loom.com/share/d282237385cd4193bdee0997496ae087
