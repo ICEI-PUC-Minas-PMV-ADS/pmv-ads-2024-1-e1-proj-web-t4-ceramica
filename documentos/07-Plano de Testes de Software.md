@@ -16,14 +16,14 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Navegação para a Página Inicial:</td>
     <td>Verifica se a navegação para a página inicial retorna o conteúdo correto.</td>
-    <td>* Abrir o navegador e navegar para a URL da página inicial (http://seu-site.com).
+    <td>* Abrir o navegador e navegar para a URL da página inicial ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 *  Verificar o conteúdo da página: Assegurar que a página contém o texto "Bem-vindo ao site de Esmaltes Cerâmicos".</td>
     <td>Dani.</td>
   </tr>
   <tr>
     <td>Navegação para a Lista de Produtos:</td>
     <td>Verifica se a navegação para a lista de esmaltes retorna o conteúdo correto, incluindo um esmalte específico.</td>
-    <td>* Abrir o navegador e navegar para a URL da lista de esmaltes (http://seu-site.com/esmaltes).
+    <td>* Abrir o navegador e navegar para a URL da lista de esmaltes ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 <br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
 <br> * Verificar um esmalte específico: Assegurar que a página contém o texto "Esmalte Azul".</td>
     <td>Marcelo</td>
@@ -31,7 +31,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Navegação para a Página da Comunidade:</td>
     <td>Verifica se a navegação para a página da comunidade retorna o conteúdo correto.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 <br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
 <br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Comunidade de Esmaltes Cerâmicos".</td>
     <td>Marcelo</td>
@@ -39,7 +39,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Menu de Navegação:</td>
     <td>Verifica se o menu de navegação contém os links corretos.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 <br> * Verificar os links do menu: Assegurar que os links para "/home", "/esmaltes", e "/comunidade" estão presentes e corretos..
     <td>Marcelo</td>
   </tr>
@@ -57,7 +57,7 @@ PARTE II - comunidade
   <tr>
     <td>Registro de Usuário:</td>
     <td>Verifica se a autenticação com o Google está funcionando.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -66,7 +66,7 @@ PARTE II - comunidade
   <tr>
     <td>Login de Usuário:</td>
     <td>Verifica se o login de um usuário no Google está funcionando.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.</td>
@@ -85,7 +85,7 @@ PARTE II - comunidade
   <tr>
     <td>Listagem de Comentários:</td>
     <td>Verifica se a listagem de comentários retorna todos os comentários postados.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -96,7 +96,7 @@ PARTE II - comunidade
   <tr>
     <td>Exclusão de Comentário:</td>
     <td>Verifica se a exclusão de um comentário é efetiva.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -149,14 +149,14 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Navegação para a Página Inicial:</td>
     <td>Verifica se a navegação para a página inicial retorna o conteúdo correto.</td>
-    <td>* Abrir o navegador e navegar para a URL da página inicial (http://seu-site.com).
+    <td>* Abrir o navegador e navegar para a URL da página inicial ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 *  Verificar o conteúdo da página: Assegurar que a página contém o texto "Bem-vindo ao site de Esmaltes Cerâmicos".</td>
     <td>Dani.</td>
   </tr>
   <tr>
     <td>Navegação para a Lista de Produtos:</td>
     <td>Verifica se a navegação para a lista de esmaltes retorna o conteúdo correto, incluindo um esmalte específico.</td>
-    <td>* Abrir o navegador e navegar para a URL da lista de esmaltes (http://seu-site.com/esmaltes).
+    <td>* Abrir o navegador e navegar para a URL da lista de esmaltes ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 <br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
 <br> * Verificar um esmalte específico: Assegurar que a página contém o texto "Esmalte Azul".</td>
     <td>Marcelo</td>
@@ -164,7 +164,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Navegação para a Página da Comunidade:</td>
     <td>Verifica se a navegação para a página da comunidade retorna o conteúdo correto.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 <br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Lista de Esmaltes Cerâmicos".
 <br> * Verificar o conteúdo da página: Assegurar que a página contém o texto "Comunidade de Esmaltes Cerâmicos".</td>
     <td>Marcelo</td>
@@ -172,7 +172,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Menu de Navegação:</td>
     <td>Verifica se o menu de navegação contém os links corretos.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
 <br> * Verificar os links do menu: Assegurar que os links para "/home", "/esmaltes", e "/comunidade" estão presentes e corretos..
     <td>Marcelo</td>
   </tr>
@@ -190,7 +190,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Registro de Usuário:</td>
     <td>Verifica se a autenticação com o Google está funcionando.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -199,7 +199,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Login de Usuário:</td>
     <td>Verifica se o login de um usuário no Google está funcionando.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.</td>
@@ -208,7 +208,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Postagem de Comentário:</td>
     <td>Verifica se a postagem de um comentário/mensagem está funcionando apropriadamente.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -218,7 +218,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Listagem de Comentários:</td>
     <td>Verifica se a listagem de comentários retorna todos os comentários postados.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -229,7 +229,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Exclusão de Comentário:</td>
     <td>Verifica se a exclusão de um comentário é efetiva.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
