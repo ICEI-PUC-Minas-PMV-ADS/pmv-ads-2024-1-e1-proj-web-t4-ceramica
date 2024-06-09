@@ -35,7 +35,7 @@ Dada a complexidade e a interdependência dessas variáveis, resolver o problema
 
 Vamos dividir o objetivo em duas fases:
 
-### Fase 1: Conteúdo Técnico
+### Fase 1: Conteúdo Técnico & Comunidade
 Nesta fase, o foco é fornecer aos ceramistas hobistas e profissionais acesso a conteúdo técnico de alta qualidade que os ajude a entender e dominar os aspectos fundamentais do processo de produção cerâmica. Isso pode incluir:
 
 1. **Tutoriais e guias passo a passo:** Criar materiais detalhados que abordem desde a escolha dos materiais (argilas, esmaltes, pigmentos) até as técnicas de modelagem, esmaltação e queima. Esses tutoriais devem ser acessíveis e abrangentes, adaptados para diferentes níveis de habilidade, desde iniciantes até ceramistas experientes.
