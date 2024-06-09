@@ -4,11 +4,23 @@ O layout padrão do site foi construído com as linguagens de marcação HTML e 
 
 As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
 
-font-family: Arial, Helvetica, sans-serif;
-color: #AD2D2D;
-font-size: 15px;
-O código utilizado para a construção dos elementos citados, incluindo a responsividade, pode ser consultado aqui. As imagens e ícones utilizados no projeto estão disponíveis aqui.
+* font-family: Arial, Helvetica, sans-serif;<br>
+* color: #AD2D2D;<br>
+* font-size: 15px;<br>
 
+## Home
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/c5f50aa9-4f39-4b03-9213-f874fdfaace8)
+
+
+## Página lista de produtos
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/245291b6-906d-4aba-b604-483ac0511b64)
+
+
+## Página comunidade
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/95963397-a619-4834-8caf-9815c1354ae5)
 
 
 > **Links Úteis**:
