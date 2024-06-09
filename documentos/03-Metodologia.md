@@ -74,7 +74,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              | [http://....](https://www.figma.com/design/ldSPsGiSdki5fV0nGUYVLE/Free-Blog-Template--%7C-Modern-%26-Creative-design-(Community)?node-id=2246-473&t=z8LBVgSza0G9N2Pd-0)                            |
 | Gerenciamento do Projeto            | Trello                             | [http://....](https://trello.com/b/WZE6D3kh/ads-ceramica)                            |
 | Hospedagem                          | Vercell                            | http://....                            |
 
