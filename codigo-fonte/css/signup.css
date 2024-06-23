@@ -3,11 +3,14 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+  color: rgb(0, 0, 0);
 }
 
 body {
-  background-image: url("/Images/pot.jpg");
+  background-color: #0d009c;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -40,7 +43,7 @@ h1{
   padding: 5px 5px;
   display: inline-block;
   border: 0;
-  border-bottom: 2px solid #0d009c;
+  border-bottom: 2px solid #3b3b3b;
   background-color: transparent;
   outline: none;
   min-width: 180px;
@@ -58,11 +61,11 @@ h1{
 }
 
 .label-float input:focus{
-  border-bottom: 2px solid #4038a0;
+  border-bottom: 2px solid #3b3b3b;
 }
 
 .label-float label{
-  color: #0d009c;
+  color: #3b3b3b;
   pointer-events: none;
   position: absolute;
   top: 0;
@@ -75,7 +78,7 @@ h1{
 .label-float input:valid + label{
   font-size: 13px;
   margin-top: 0;
-  color: #4038a0
+  color: #99999b
 }
 
 button{
@@ -93,7 +96,7 @@ button{
 }
 
 button:hover{
-  background-color: #0d009c;
+  background-color: #d1a9a9;
   color: #fff;
 }
 
@@ -107,7 +110,7 @@ button:hover{
   top: 15px;
   right: 10px;
   cursor: pointer;
-  color: #0d009c;
+  color: #7a7878;
 }
 
 #msgError{

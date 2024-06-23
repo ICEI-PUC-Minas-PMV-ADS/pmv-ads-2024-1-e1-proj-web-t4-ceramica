@@ -3,7 +3,10 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+  color: black;
 }
 
 body {
@@ -92,7 +95,7 @@ button{
 }
 
 button:hover{
-  background-color: #272262;
+  background-color: #d1a9a9;
   color: #fff;
 }
 
