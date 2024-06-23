@@ -55,16 +55,16 @@ PARTE II - comunidade
     <th>Responsável</th>
   </tr>
   <tr>
-    <td>Cadastro de Usuário:</td>
-    <td>Verifica se a autenticação com o Google está funcionando.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
+    <td>Login usuário:</td>
+    <td>Verifica se o cadastro está funcionando.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
     <br> * Clicar em Comunidade.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
-    <td>Login de Usuário:</td>
+    <td>Cadastro de Usuário:</td>
     <td>Verifica se o cadastro está funcionando.</td>
     <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em cadastre-se.
@@ -189,16 +189,16 @@ PARTE I - navegação & conteúdo
     <th>Responsável</th>
   </tr>
   <tr>
-    <td>Cadastro de Usuário:</td>
-    <td>Verifica se a autenticação com o Google está funcionando.</td>
-    <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
+    <td>Login usuário:</td>
+    <td>Verifica se o cadastro está funcionando.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
     <br> * Clicar em Comunidade.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
-    <td>Login de Usuário:</td>
+    <td>Cadastro de Usuário:</td>
     <td>Verifica se o cadastro está funcionando.</td>
     <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
     <br> * Clicar em cadastre-se.
@@ -207,6 +207,7 @@ PARTE I - navegação & conteúdo
     <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
+  <tr>
   <tr>
     <td>Postagem de Comentário:</td>
     <td>Verifica se a postagem de um comentário/mensagem está funcionando apropriadamente.</td>
