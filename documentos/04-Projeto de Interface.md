@@ -21,11 +21,19 @@ Lista de produtos/artigos
 
 Página do produto/artigo
 
-![Página do produto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/4e65012e-f9c6-4b1d-bf74-308608af65a2)
+Página Sign in
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/b1716565-8008-4e40-999e-48db177bf1f2)
+
+Página Sign up
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/249f1d04-b6b6-4ba1-8fc8-1a49aa83aa2b)
+
 
 Página da comunidade
 
-![Página da comunidade](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/52ade86b-37e6-4875-a4cc-290515825b9d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/85c09913-17fa-4da2-916c-213cd7f8f3d6)
+
 
 
  
