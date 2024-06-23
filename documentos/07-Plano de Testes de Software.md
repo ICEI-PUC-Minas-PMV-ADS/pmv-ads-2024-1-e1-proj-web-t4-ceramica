@@ -60,7 +60,7 @@ PARTE II - comunidade
     <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
     <br> * Clicar em Comunidade.
     <br> * Fazer o login.
-    <br> * Observar se o usuário está logado na página da Comunidade.
+    <br> * Resultado esperado: Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
@@ -70,8 +70,19 @@ PARTE II - comunidade
     <br> * Clicar em cadastre-se.
     <br> * Cadastrar-se.
     <br> * Fazer o login.</td>
-    <br> * Observar se o usuário está logado na página da Comunidade.
+    <br> * Resultado esperado: Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
+    <tr>
+    <td>Log out</td>
+    <td>Verifica se o cadastro faz o log out.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
+    <br> * Clicar em Comunidade.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado na página da Comunidade.
+    <br> * Clicar em sair.
+    <br> * Resultado esperado: voltar para a página de login.
+    <td>Andre</td>
+  </tr>
   </tr>
   <tr>
     <td>Postagem de Comentário:</td>
@@ -188,15 +199,6 @@ PARTE I - navegação & conteúdo
     <th>Passo a passo</th>
     <th>Responsável</th>
   </tr>
-    <tr>
-    <td>Login usuário:</td>
-    <td>Verifica se o cadastro está funcionando.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
-    <br> * Clicar em Comunidade.
-    <br> * Fazer o login.
-    <br> * Observar se o usuário está logado na página da Comunidade.
-    <td>Andre</td>
-  </tr>
   <tr>
     <td>Cadastro de Usuário:</td>
     <td>Verifica se o cadastro está funcionando.</td>
@@ -204,8 +206,19 @@ PARTE I - navegação & conteúdo
     <br> * Clicar em cadastre-se.
     <br> * Cadastrar-se.
     <br> * Fazer o login.</td>
-    <br> * Observar se o usuário está logado na página da Comunidade.
+    <br> * Resultado esperado: Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
+    <tr>
+    <td>Log out</td>
+    <td>Verifica se o cadastro faz o log out.</td>
+    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
+    <br> * Clicar em Comunidade.
+    <br> * Fazer o login.
+    <br> * Observar se o usuário está logado na página da Comunidade.
+    <br> * Clicar em sair.
+    <br> * Resultado esperado: voltar para a página de login.
+    <td>Andre</td>
+  </tr>
   </tr>
   <tr>
     <td>Postagem de Comentário:</td>
@@ -216,6 +229,7 @@ PARTE I - navegação & conteúdo
     <br> * Observar se o usuário está logado no Google.
     <br> * Enviar/postar mensagem.</td>
     <td>Andre</td>
+  </tr>
   </tr>
   <tr>
     <td>Listagem de Comentários:</td>
