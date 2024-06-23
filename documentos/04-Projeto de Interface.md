@@ -6,8 +6,9 @@ O fluxograma apresentado mostra o fluxo de interação do usuário pelas telas d
 
 ![Cerâmica Arte   Tradição](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/164776578/f91fda7c-1e27-406a-b3e1-cb7c2a9cdb18)
 
+## User flow da área de login / área logada (comunidade)
 
-
+![untitled](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/72d9491a-8e61-4975-a8d5-7ce4c6b05bb7)
 
 ## Protótipo
 
