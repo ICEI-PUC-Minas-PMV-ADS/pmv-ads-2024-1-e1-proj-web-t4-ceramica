@@ -66,7 +66,7 @@ PARTE II - comunidade
   <tr>
     <td>Cadastro de Usuário:</td>
     <td>Verifica se o cadastro está funcionando.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
+    <td> * Abrir o navegador e navegar para a URL da comunidade https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signup.html.
     <br> * Clicar em cadastre-se.
     <br> * Cadastrar-se.
     <br> * Fazer o login.</td>
@@ -76,7 +76,7 @@ PARTE II - comunidade
   <tr>
     <td>Postagem de Comentário:</td>
     <td>Verifica se a postagem de um comentário/mensagem está funcionando apropriadamente.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade (http://seu-site.com/comunidade).
+    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/index.html).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
@@ -188,7 +188,7 @@ PARTE I - navegação & conteúdo
     <th>Passo a passo</th>
     <th>Responsável</th>
   </tr>
-  <tr>
+    <tr>
     <td>Login usuário:</td>
     <td>Verifica se o cadastro está funcionando.</td>
     <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signin.html)).
@@ -200,7 +200,7 @@ PARTE I - navegação & conteúdo
   <tr>
     <td>Cadastro de Usuário:</td>
     <td>Verifica se o cadastro está funcionando.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
+    <td> * Abrir o navegador e navegar para a URL da comunidade https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/signup.html.
     <br> * Clicar em cadastre-se.
     <br> * Cadastrar-se.
     <br> * Fazer o login.</td>
@@ -208,10 +208,9 @@ PARTE I - navegação & conteúdo
     <td>Andre</td>
   </tr>
   <tr>
-  <tr>
     <td>Postagem de Comentário:</td>
     <td>Verifica se a postagem de um comentário/mensagem está funcionando apropriadamente.</td>
-    <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
+    <td> * Abrir o navegador e navegar para a URL da comunidade (https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/html/index.html).
     <br> * Clicar em Gooogle.
     <br> * Fazer o login.
     <br> * Observar se o usuário está logado no Google.
