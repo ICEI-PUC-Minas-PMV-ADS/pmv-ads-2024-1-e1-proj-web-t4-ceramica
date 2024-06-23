@@ -79,9 +79,9 @@ h1{
 }
 
 button{
-  background-color: transparent;
-  border-color: #0d009c;
-  color: #0d009c;
+  background-color: #FFF0F0;
+  border-color: #fff0f0;
+  color: #3b3b3b;
   padding: 7px;
   font-weight: bold;
   font-size: 12pt;
