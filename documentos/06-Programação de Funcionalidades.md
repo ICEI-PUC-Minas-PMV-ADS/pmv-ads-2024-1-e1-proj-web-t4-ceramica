@@ -23,7 +23,7 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/29122909/9dbc7156-159e-4bf5-8b60-fad1efdbd471)
 
 
-#### Responsável
+#### Responsáveis
 
 Andre Dexheimer, Daniele e Marcelo
 
