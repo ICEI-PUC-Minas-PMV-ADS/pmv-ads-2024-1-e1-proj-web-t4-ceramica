@@ -9,7 +9,7 @@ let logado = document.querySelector("#logado")
 logado.innerHTML = `Olá! ${userLogado.nome}, participe da comunidade!`;
 
 let logado2 = document.querySelector("#logado2")
-logado.innerHTML = `Olá! ${userLogado.nome}, Volte sempre!`;
+logado.innerHTML = `Olá! Bem vindo de volta, ${userLogado.nome}! `;
 
 function sair() {
     localStorage.removeItem("token");
