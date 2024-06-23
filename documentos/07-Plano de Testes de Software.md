@@ -55,21 +55,22 @@ PARTE II - comunidade
     <th>Responsável</th>
   </tr>
   <tr>
-    <td>Registro de Usuário:</td>
+    <td>Cadastro de Usuário:</td>
     <td>Verifica se a autenticação com o Google está funcionando.</td>
     <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
-    <br> * Clicar em Gooogle.
+    <br> * Clicar em Comunidade.
     <br> * Fazer o login.
-    <br> * Observar se o usuário está logado no Google.
+    <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
     <td>Login de Usuário:</td>
-    <td>Verifica se o login de um usuário no Google está funcionando.</td>
+    <td>Verifica se o cadastro está funcionando.</td>
     <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
-    <br> * Clicar em Gooogle.
-    <br> * Fazer o login.
-    <br> * Observar se o usuário está logado no Google.</td>
+    <br> * Clicar em cadastre-se.
+    <br> * Cadastrar-se.
+    <br> * Fazer o login.</td>
+    <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
@@ -188,21 +189,22 @@ PARTE I - navegação & conteúdo
     <th>Responsável</th>
   </tr>
   <tr>
-    <td>Registro de Usuário:</td>
+    <td>Cadastro de Usuário:</td>
     <td>Verifica se a autenticação com o Google está funcionando.</td>
     <td>* Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
-    <br> * Clicar em Gooogle.
+    <br> * Clicar em Comunidade.
     <br> * Fazer o login.
-    <br> * Observar se o usuário está logado no Google.
+    <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
     <td>Login de Usuário:</td>
-    <td>Verifica se o login de um usuário no Google está funcionando.</td>
+    <td>Verifica se o cadastro está funcionando.</td>
     <td> * Abrir o navegador e navegar para a URL da comunidade ([link](https://pmv-ads-2024-1-e1-proj-web-t4-ceramica-knqb.vercel.app/index.paginaHome.html#sobre-conteudo)).
-    <br> * Clicar em Gooogle.
-    <br> * Fazer o login.
-    <br> * Observar se o usuário está logado no Google.</td>
+    <br> * Clicar em cadastre-se.
+    <br> * Cadastrar-se.
+    <br> * Fazer o login.</td>
+    <br> * Observar se o usuário está logado na página da Comunidade.
     <td>Andre</td>
   </tr>
   <tr>
