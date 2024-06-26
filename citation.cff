@@ -1,0 +1,21 @@
+message: Please cite this software using these metadata.
+title: Cerâmica Arte & Tradição
+authors:
+  - family-names: Dexheimer
+    given-names: Andre 
+  - family-names: Souza Melo
+    given-names: Danielle
+  - family-names: Vilela Braz
+    given-names: Manuella
+  - family-names: Silvério Barbosa
+    given-names: Marcelo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Rodrigo Costa
+    given-names: Marco
+keywords:
+  - EsmalteCerâmica
+  - EsmalteMassa
+repository-code:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica 
+version: 1.0.0
+date-released: 2024-06-22
