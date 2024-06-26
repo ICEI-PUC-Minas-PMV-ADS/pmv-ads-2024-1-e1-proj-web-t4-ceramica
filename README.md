@@ -8,13 +8,12 @@ Desenvolvimento de aplicação web front-end
 ![default_transparent_765x625](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t4-ceramica/assets/164776578/3f2e262e-6666-4dd0-8cf4-eafeeb906d9a)
 
 
-O processo de esmaltação na cerâmica artesanal é um processo custoso e com resultado incerto. Para aumentar a taxa de acerto, o objetivo desse produto na fase 1 é auxiliar o ceramista profissional e hobbista com informações técnicas e educacionais e, na fase 2, adicionar uma camada de e-commerce em que o ceramista poderá comprar o que precisa como uma consultoria técnica especializada para o seu caso.
+O processo de esmaltação na cerâmica artesanal é um processo custoso e com resultado incerto. Para aumentar a taxa de acerto, o objetivo desse produto na fase 1 é auxiliar o ceramista profissional e hobbista com informações técnicas e educacionais e, na fase 2, adicionar uma consultoria técnica especializada para cada caso.
 
 ## Integrantes
 
 * Andre Dexheimer
 * Danielle Souza Melo
-* Eduarda Cristina Ramos da Silva
 * Manuella Vilela Braz
 * Marcelo Silvério Barbosa
 
